@@ -1,0 +1,12 @@
+{
+  "name": "pami-severino-santana",
+  "version": "1.0.0",
+  "description": "Programação de Aplicativos Mobile I por João Siles e Bruno Cano.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -28,3 +28,5 @@ let novo_usuario: Usuario = {
     nome: 'Amanda',
     idade: 18
 };
+
+console.log(nome);
